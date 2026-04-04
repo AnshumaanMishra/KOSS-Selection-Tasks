@@ -27,7 +27,8 @@ Pease remember to keep the presentation short and concise. Long presentation bor
   With the help of context managers print the output of the code in a txt file.
 - **Part II** -Once you have generated the word count, you need to find the count of any word X let say,"happy" ,which may or may not be present in the generated dict.If the word is present, then print the word count else print "Not Present".
 
-The dataset for the task is avaviable at : <https://colab.research.google.com/drive/14tX5rQQBlYVU1xeRcy8creUtT86TupV9?usp=sharing>
+For the list of words, use: https://www.gutenberg.org/cache/epub/11/pg11.txt?hl=en-IN
+For simplicity, ignore numeric values.
 
 ## Materials
 
